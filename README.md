@@ -8,8 +8,8 @@ This repository provides a framework for CS7IS3 Assignment 2 with automated eval
 
 ### **Step 1: Fork or Clone This Repository**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/ritik90/Search-Engine-with-GitHub-Actions-Evaluation.git
+cd https://github.com/ritik90/Search-Engine-with-GitHub-Actions-Evaluation.git
 ```
 
 ### **Step 2: Implement Your Search Engine**
